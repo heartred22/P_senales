@@ -1,82 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="700"
-   height="700"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.44"
-   version="1.0"
-   sodipodi:docbase="D:\Wiki\Tomas\Trenes"
-   sodipodi:docname="Paso a nivel 02.svg">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.97714286"
-     inkscape:cx="350"
-     inkscape:cy="350"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     gridspacingx="10px"
-     gridspacingy="10px"
-     inkscape:object-nodes="false"
-     objecttolerance="50"
-     inkscape:object-points="false"
-     inkscape:grid-points="true"
-     gridtolerance="10000"
-     width="700px"
-     height="700px"
-     inkscape:window-width="1351"
-     inkscape:window-height="881"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Capa 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:red;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none;stroke-opacity:1"
-       d="M 49.999998,614.99999 L 648.99995,614.99999 L 349.49997,96.00005 L 49.999998,614.99999"
-       id="path4681" />
-    <path
-       style="fill:black;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 250,570 L 250,560 L 230,560 L 230,520 L 250,520 L 250,430 L 230,430 L 230,390 L 250,390 L 250,370 L 270,350 L 290,370 L 290,390 L 330,390 L 330,370 L 350,350 L 370,370 L 370,390 L 410,390 L 410,370 L 430,350 L 450,370 L 450,390 L 470,390 L 470,430 L 450,430 L 450,520 L 470,520 L 470,560 L 450,560 L 450,570 L 410,570 L 410,560 L 370,560 L 370,570 L 330,570 L 330,560 L 290,560 L 290,570 L 250,570 z "
-       id="path7356"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccc" />
-    <path
-       style="fill:white;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 290,430 L 330,430 L 330,520 L 290,520 L 290,430 z "
-       id="path7358"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:white;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 370,430 L 410,430 L 410,520 L 370,520 L 370,430 z "
-       id="path7360"
-       sodipodi:nodetypes="ccccc" />
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="200px" viewBox="0 0 200 200" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:20;" d="M 49.998047 615.001953 L 649.003906 615.001953 L 349.494141 96.003906 L 49.998047 615.001953 " transform="matrix(0.285714,0,0,0.285714,0,0)"/>
+<path style="fill-rule:evenodd;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 250.003906 569.994141 L 250.003906 560 L 230.001953 560 L 230.001953 519.996094 L 250.003906 519.996094 L 250.003906 429.994141 L 230.001953 429.994141 L 230.001953 390.003906 L 250.003906 390.003906 L 250.003906 370.001953 L 270.005859 350 L 289.994141 370.001953 L 289.994141 390.003906 L 329.998047 390.003906 L 329.998047 370.001953 L 350 350 L 370.001953 370.001953 L 370.001953 390.003906 L 410.005859 390.003906 L 410.005859 370.001953 L 429.994141 350 L 449.996094 370.001953 L 449.996094 390.003906 L 469.998047 390.003906 L 469.998047 429.994141 L 449.996094 429.994141 L 449.996094 519.996094 L 469.998047 519.996094 L 469.998047 560 L 449.996094 560 L 449.996094 569.994141 L 410.005859 569.994141 L 410.005859 560 L 370.001953 560 L 370.001953 569.994141 L 329.998047 569.994141 L 329.998047 560 L 289.994141 560 L 289.994141 569.994141 Z M 250.003906 569.994141 " transform="matrix(0.285714,0,0,0.285714,0,0)"/>
+<path style="fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 289.994141 429.994141 L 329.998047 429.994141 L 329.998047 519.996094 L 289.994141 519.996094 Z M 289.994141 429.994141 " transform="matrix(0.285714,0,0,0.285714,0,0)"/>
+<path style="fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:4;" d="M 370.001953 429.994141 L 410.005859 429.994141 L 410.005859 519.996094 L 370.001953 519.996094 Z M 370.001953 429.994141 " transform="matrix(0.285714,0,0,0.285714,0,0)"/>
+</g>
 </svg>

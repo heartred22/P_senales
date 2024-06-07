@@ -1,5 +1,7 @@
-<?xml version="1.0" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" stroke="#E41408">
-<path stroke-width="6" fill="#19408B" d="m24,3a21,21 0 1,1-.1,0z"/>
-<path stroke-width="3.6" d="m9,9 29,29"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250px" height="200px" viewBox="0 0 200 200" version="1.1">
+<g id="surface1">
+<path style="fill-rule:nonzero;fill:rgb(9.803922%,25.098039%,54.509804%);fill-opacity:1;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(89.411765%,7.843137%,3.137255%);stroke-opacity:1;stroke-miterlimit:4;" d="M 24 3 C 35.588437 3.027187 44.963437 12.436875 44.950312 24.025312 C 44.93625 35.612812 35.537813 45 23.950312 45 C 12.361875 45 2.963437 35.612812 2.950312 24.025312 C 2.93625 12.436875 12.312188 3.027187 23.899687 3 Z M 24 3 " transform="matrix(4.166667,0,0,4.166667,0,0)"/>
+<path style="fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;stroke-width:3.6;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(89.411765%,7.843137%,3.137255%);stroke-opacity:1;stroke-miterlimit:4;" d="M 9 9 L 37.999688 37.999688 " transform="matrix(4.166667,0,0,4.166667,0,0)"/>
+</g>
 </svg>
